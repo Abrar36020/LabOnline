@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Lab2</string>
+    <string name="player_a">Dice Number</string>
+    <string name="game_point_a">0</string>
+    <string name="player_b">Player B</string>
+    <string name="game_point_b">0</string>
+    <string name="game_point">0</string>
+    <string name="dice_image_contentDescription">Dice Image</string>
+    <string name="reset">RESET</string>
+    <string name="start_game">START GAME</string>
+    <string name="quit_game">QUIT GAME</string>
+
+</resources>
